@@ -1,11 +1,6 @@
 <img align=center src="https://cdn.discordapp.com/attachments/924432376417898516/1255572252179824760/8hr60jort3w91.gif?ex=667d9e48&is=667c4cc8&hm=84a17f6acff125c5d730ecf7d797906aa9fc0cf9c034d3dae1a937c3d270655c&"/>
 
-<div align=center>
-  
-  # Opa, Vinícius aqui!
-  
-</div>
-
+<h1 align=center>Opa, Vinícius aqui!</h1>
 
 <div align=center>
 
@@ -14,11 +9,7 @@
 
 </div>
 
-<div align=center>
-  
-  ## My Stacks
-  
-</div>
+<h2 align=center>My Stacks</h2>
 
 <div display:flex gap:30px align=center>
   
@@ -30,11 +21,7 @@
 
 <br>
 
-<div align=center>
-
-  ## Socials
-  
-</div>
+<h2 align=center>Socials</h2>
 
 <div align=center>
 
