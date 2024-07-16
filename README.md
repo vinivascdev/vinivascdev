@@ -1,4 +1,4 @@
-<img align=center src="https://cdn.discordapp.com/attachments/924432376417898516/1255572252179824760/8hr60jort3w91.gif?ex=667d9e48&is=667c4cc8&hm=84a17f6acff125c5d730ecf7d797906aa9fc0cf9c034d3dae1a937c3d270655c&"/>
+<img align=center src="https://cdn.discordapp.com/attachments/924432376417898516/1255572252179824760/8hr60jort3w91.gif?ex=6697fc48&is=6696aac8&hm=114ed5b08e0aec0663e5692173a2fe827db4473e08b143d3e70998464b8a9c79&"/>
 
 <h1 align=center>Opa, Vinícius aqui!</h1>
 
