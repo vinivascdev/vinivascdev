@@ -1,4 +1,4 @@
-<img align=center src="https://cdn.discordapp.com/attachments/924432376417898516/1255572252179824760/8hr60jort3w91.gif?ex=6697fc48&is=6696aac8&hm=114ed5b08e0aec0663e5692173a2fe827db4473e08b143d3e70998464b8a9c79&"/>
+<img align=center src="https://i.pinimg.com/originals/0f/8c/8a/0f8c8aa6189de952da3ea34c5d93b9dc.gif"/>
 
 <h1 align=center>Opa, Vinícius aqui!</h1>
 
