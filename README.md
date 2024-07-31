@@ -1,5 +1,5 @@
 <p align=center >
-<img src="https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-cover-desktop-wallpaper.gif"/>
+<img src="https://i.pinimg.com/originals/0f/8c/8a/0f8c8aa6189de952da3ea34c5d93b9dc.gif"/>
 </p>
 
 <h1 align=center>Opa, Vinícius aqui!</h1>
