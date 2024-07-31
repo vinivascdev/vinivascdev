@@ -1,4 +1,4 @@
-<img align=center src="https://i.pinimg.com/originals/0f/8c/8a/0f8c8aa6189de952da3ea34c5d93b9dc.gif"/>
+<img src="https://i.pinimg.com/originals/0f/8c/8a/0f8c8aa6189de952da3ea34c5d93b9dc.gif" align=center />
 
 <h1 align=center>Opa, Vinícius aqui!</h1>
 
