@@ -1,6 +1,6 @@
 <h1 align=center>Hello World, Vinícius aqui! 🌎🧑‍💻</h1>
 
-Sou estudante do segundo semestre de **Sistemas e Mídias Digitais**, na Universidade Federal do Ceará. Aficionado por programação e design, busco criar soluções inovadoras e modernas em tecnologia que ajudem o maior número possível de pessoas!
+Sou estudante do segundo semestre de **Sistemas e Mídias Digitais**, na Universidade Federal do Ceará. Aficionado por programação e design, busco criar soluções inovadoras e modernas em tecnologia que ajudem o maior número possível de pessoas! 🚀
 
 
 <p align=center >
