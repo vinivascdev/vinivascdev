@@ -15,9 +15,7 @@
 
 <div display:flex gap:30px align=center>
   
-  <img align=center height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align=center height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align=center height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  [![My Stacks](https://skillicons.dev/icons?i=html,css,js,react,nodejs,prisma,postgres,git)](https://skillicons.dev)
   
 </div>
 
